@@ -1,6 +1,6 @@
 # Face Recognition Attendance System
 
-This project marks attendance from a single class photo using face recognition.
+This project marks attendance of students of the class by uploading entire class photo it will mark the attendance using face recognition.
 
 ## 🔧 Setup
 
